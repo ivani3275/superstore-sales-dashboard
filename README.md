@@ -2,7 +2,7 @@
 
 An interactive sales analytics dashboard built with Python and Streamlit. It helps explore sales and profit by region, category, and year, and finds where the business makes or loses money.
 
-**Live demo:** [paste your Streamlit link here after deploying]
+**Live demo:** (https://superstore-sales-dashboard-25cnx8j9o7bi3ru36forxu.streamlit.app/)
 
 ## Dataset
 Global Superstore retail sales data (2011-2014) from Kaggle, with orders across multiple regions and product categories.
